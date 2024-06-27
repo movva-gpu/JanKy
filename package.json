@@ -3,7 +3,7 @@
   "module": "index.ts",
   "type": "module",
   "scripts": {
-    "format": "prettier --write ."
+0    "format": "prettier --write ."
   },
   "devDependencies": {
     "@types/bun": "latest",
